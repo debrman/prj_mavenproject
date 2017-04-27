@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="https://tracking.russianpost.ru/rtm34?wsdl" uri="wsdl/tracking.russianpost.ru/tracking-web-static/rtm34_wsdl.xml.wsdl"/>
+    <system systemId="https://tracking.russianpost.ru/rtm34?xsd=6" uri="wsdl/tracking.russianpost.ru/tracking-web-static/rtm34_xsd6.xml.xsd"/>
+    <system systemId="https://tracking.russianpost.ru/rtm34?xsd=4" uri="wsdl/tracking.russianpost.ru/tracking-web-static/rtm34_xsd4.xml.xsd"/>
+    <system systemId="https://tracking.russianpost.ru/rtm34?xsd=5" uri="wsdl/tracking.russianpost.ru/tracking-web-static/rtm34_xsd5.xml.xsd"/>
+    <system systemId="https://tracking.russianpost.ru/rtm34?xsd=1" uri="wsdl/tracking.russianpost.ru/tracking-web-static/rtm34_xsd1.xml.xsd"/>
+    <system systemId="https://tracking.russianpost.ru/rtm34?xsd=2" uri="wsdl/tracking.russianpost.ru/tracking-web-static/rtm34_xsd2.xml.xsd"/>
+    <system systemId="https://tracking.russianpost.ru/rtm34?xsd=3" uri="wsdl/tracking.russianpost.ru/tracking-web-static/rtm34_xsd3.xml.xsd"/>
+</catalog>
